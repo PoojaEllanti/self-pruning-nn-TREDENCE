@@ -1,0 +1,13 @@
+# Ignore datasets
+data/
+notebooks/data/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
